@@ -1,1 +1,1 @@
-{"version": "0.3.0", "url": "https://github.com/ByteBuilder1811/orbit-releases/releases/latest", "notes": "Adds an auto update"}
+{"version": "0.3.0", "url": "https://github.com/ByteBuilder1811/orbit-releases/releases/latest", "zip": "https://github.com/user-attachments/files/33848013/Orbit-0.3.0-arm64.zip", "sha256": "f899511130d5f91f38ad5373d23d19ba1e888224834907ebf4429e7945bba9c3", "notes": "Adds in-app install: Check for updates now installs and restarts"}
